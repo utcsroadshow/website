@@ -1,0 +1,71 @@
+body {
+  color: #666;
+}
+
+h1 {
+  font-size: 4.5em;
+  color: #B56012;
+}
+
+h2 {
+  font-family: 'Economica', 'Dosis';
+  text-transform: uppercase;
+  font-size: 2.5em;
+  margin: 4px;
+}
+
+#what-we-do {
+  text-align: center;
+  background-color: #fff;
+  height: auto;
+  padding: 40px;
+}
+
+#description {
+  width: 800px;
+  margin: 0 auto;
+  padding-bottom: 40px;
+}
+
+.info-bar-block {
+  width: 300px;
+  vertical-align: top;
+  display: inline-block;
+  height: auto;
+  margin: 20px;
+}
+
+.info-bar-block img {
+  height: 100px;
+}
+
+#who-we-are {
+  height: auto;
+  /*background-image: url(images/tile.jpg);*/
+  background-size: 100% auto;
+  background-color: #eee;
+  padding: 40px;
+}
+
+#cycle-img {
+  display: block;
+  margin: 0 auto;
+  position: relative;
+  top: 20px;
+}
+
+#materials {
+  position: relative;
+  margin: 0 auto;
+  left: -240px;
+  top: -280px;
+  width: 300px;
+}
+
+#presentations {
+  position: relative;
+  margin: 0 auto;
+  left: 240px;
+  top: -365px;
+  width: 300px;
+}
