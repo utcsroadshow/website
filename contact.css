@@ -19,13 +19,7 @@ h2 {
 #what-we-do {
   text-align: center;
   background-color: #fff;
-  height: auto;
-  padding: 40px;
-}
-
-#who-we-are {
-  height: 400px;
-  background-color: #eee;
+  height: 100%;
   padding: 40px;
 }
 
