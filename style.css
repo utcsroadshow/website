@@ -25,9 +25,7 @@ body {
   font-family: 'Open Sans', Century Gothic, Helvetica;
   font-weight: 300;
   color: #eee;
-  background-color: #333;
-  padding-top: 100px;
-  padding-bottom: 60px;
+  /*background-color: #333;*/
   height: 100%;
 }
 
@@ -80,6 +78,10 @@ header {
 
 header div {
   display: inline-block;
+}
+
+.content {
+  padding-top: 10%;
 }
 
 #logo {
