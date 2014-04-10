@@ -201,3 +201,7 @@ header div {
 .ss-choice-item {
   list-style: none;
 }
+
+#ss-submit {
+  text-align: center;
+}
